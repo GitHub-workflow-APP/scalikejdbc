@@ -2,7 +2,7 @@
 
 [![Maven Central](https://img.shields.io/maven-central/v/org.scalikejdbc/scalikejdbc_2.13.svg?label=Maven%20Central)](https://search.maven.org/search?q=g:org.scalikejdbc%20AND%20a:scalikejdbc_2.13)
 
-## Just Write SQL And Get Things Done 💪
+## Just Write SQL And Get Things Done 💪.
 
 [**ScalikeJDBC**](https://scalikejdbc.org/) seamlessly wraps JDBC APIs, offering intuitive and highly flexible functionalities. With QueryDSL, your code becomes inherently type-safe and reusable. This library is not just practical; it’s production-ready. Utilize this library confidently in your real-world projects.
 
